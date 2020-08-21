@@ -27,10 +27,8 @@ In `src/main/resources/fabric.mod.json`:
 - Check `depends`
 
 Example files:
-- `src/main/java/net/avcd/mod_id/ExampleMod.java`
-
+- `src/main/java/net/avcd/mod_id/ExampleMod.java` \
     `ExampleMod` in `fabric.mod.json` in `entrypoints` in `main`
 
-- `src/main/java/net/avcd/mod_id/mixin/ExampleMixin.java`
-
+- `src/main/java/net/avcd/mod_id/mixin/ExampleMixin.java` \
     `ExampleMixin` in `mod_id.mixins.json` in `client`

@@ -1,8 +1,11 @@
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](https://bit.ly/cc-by-nc-sa-40)
+
 # Example Mod
 
 For `mod_id`:
-- Rename `mod-template/src/main/resources/assets/*mod_id*`
-- Rename `mod-template/src/main/resources/*mod_id*.mixins.json`
+- Rename `src/main/java/net/avcd/*mod_id*`
+- Rename `src/main/resources/assets/*mod_id*`
+- Rename `src/main/resources/*mod_id*.mixins.json`
 
 In `gradle.properties`:
 - Change `archives_base_name`
